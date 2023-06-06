@@ -27,18 +27,20 @@
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background: #555;
+    background: #fff;
     cursor: pointer;
     border: 2px solid #edf1f4;
-    box-shadow:5px 5px 10px rgba(0,0,0,0.1),
-    -5px -5px 10px #fff ;
+   /* box-shadow:5px 5px 10px rgba(0,0,0,0.1),
+    -5px -5px 10px #fff ;*/
+    box-shadow: 0 0 1rem #fff;
 }
 
 .dark .toggleBtn{
     background: #fff;
     border: 2px solid #282c2f;
-    box-shadow:5px 5px 10px rgba(0,0,0,0.1),
-    -5px -5px 10px #000 ;
+    box-shadow: 0 0 1rem #282c2f;
+    /*box-shadow:5px 5px 10px rgba(0,0,0,0.1),
+    -5px -5px 10px #000 ;*/
 }
 
 .calculator{
