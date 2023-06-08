@@ -29,16 +29,16 @@
     border-radius: 50%;
     background: #282c2f;
     cursor: pointer;
-    border: 2px solid #282c2f;
+    border: 1px solid #282c2f;
    /* box-shadow:5px 5px 10px rgba(0,0,0,0.1),
     -5px -5px 10px #fff ;*/
-    box-shadow: 0 0 8px #282c2f;
+    box-shadow: 0 0 6px #282c2f;
 }
 
 .dark .toggleBtn{
     background: #fff;
-    border: 2px solid #fff;
-    box-shadow: 0 0 8px #fff;
+    border: 1px solid #fff;
+    box-shadow: 0 0 6px #fff;
     /*box-shadow:5px 5px 10px rgba(0,0,0,0.1),
     -5px -5px 10px #000 ;*/
 }
